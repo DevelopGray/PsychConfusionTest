@@ -1,0 +1,928 @@
+[
+  {
+    "id": "1.0.0",
+    "title": "Dysphoria Indicator Questions",
+    "sections": [
+      {
+        "id": "1.1.0",
+        "title": "Discomfort with Assigned Gender",
+        "questions": [
+          {
+            "id": "1.1.1",
+            "text": "I feel discomfort when people refer to me as my assigned gender.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.70
+          },
+          {
+            "id": "1.1.2",
+            "text": "Hearing myself referred to as my assigned gender makes me feel uneasy.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.50
+          },
+          {
+            "id": "1.1.3",
+            "text": "When others assume I am my assigned gender, I feel uncomfortable.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.50
+          },
+          {
+            "id": "1.1.4",
+            "text": "I feel a sense of detachment from the gender I was assigned at birth.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.70
+          },
+          {
+            "id": "1.1.5",
+            "text": "When people treat me based on my assigned gender, it does not feel right to me.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.65
+          },
+          {
+            "id": "1.1.6",
+            "text": "I feel like I'm living a lie when I present myself as my assigned gender.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.65
+          },
+          {
+            "id": "1.1.7",
+            "text": "I have difficulty looking at myself in the mirror because I don't feel like my body matches my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.65
+          },
+          {
+            "id": "1.1.8",
+            "text": "I feel like I'm trapped in a body that doesn't feel like mine.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.70
+          },
+          {
+            "id": "1.1.9",
+            "text": "I have thought about whether physical changes to my body would make me feel more comfortable.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.60
+          },
+          {
+            "id": "1.1.10",
+            "text": "I feel like my gender identity is not recognized or validated by others.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.55
+          }
+        ]
+      },
+      {
+        "id": "1.2.0",
+        "title": "Identity Consistency Over Time",
+        "questions": [
+          {
+            "id": "1.2.1",
+            "text": "I have consistently felt discomfort with my assigned gender for a long time.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.60
+          },
+          {
+            "id": "1.2.2",
+            "text": "Looking back at my childhood, I can remember times when I felt different from my assigned gender.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.55
+          },
+          {
+            "id": "1.2.3",
+            "text": "I have never felt truly comfortable with my assigned gender.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.60
+          },
+          {
+            "id": "1.2.4",
+            "text": "Throughout my life, I have felt that my sense of self has been stable.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.40
+          },
+          {
+            "id": "1.2.5",
+            "text": "I sometimes question whether my discomfort with gender is temporary or permanent.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.45
+          }
+        ]
+      },
+      {
+        "id": "1.3.0",
+        "title": "Body Image & Physical Discomfort",
+        "questions": [
+          {
+            "id": "1.3.1",
+            "text": "When looking in the mirror, I feel like my body does not match who I really am.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.50
+          },
+          {
+            "id": "1.3.2",
+            "text": "I feel distress when I see features of my assigned gender on my body.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.45
+          },
+          {
+            "id": "1.3.3",
+            "text": "I avoid looking at certain parts of my body because they don’t feel right to me.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.40
+          },
+          {
+            "id": "1.3.4",
+            "text": "If I could change aspects of my body to align with a different gender, I would feel relief.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.45
+          },
+          {
+            "id": "1.3.5",
+            "text": "I dislike aspects of my body because they make me feel more like my assigned gender.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.50
+          }
+        ]
+      },
+      {
+        "id": "1.4.0",
+        "title": "Gender Expression & Social Presentation",
+        "questions": [
+          {
+            "id": "1.4.1",
+            "text": "I have tried presenting myself as a gender different from the one I was assigned at birth.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Frequently"],
+            "type": "scale",
+            "weight": 0.45
+          },
+          {
+            "id": "1.4.2",
+            "text": "I feel most comfortable when my clothing and appearance do not reflect my assigned gender.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.45
+          },
+          {
+            "id": "1.4.3",
+            "text": "When I dress in a way that aligns with my assigned gender, I feel like I am acting, rather than being myself.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.50
+          },
+          {
+            "id": "1.4.4",
+            "text": "I feel more confident when others perceive me as a different gender than my assigned one.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.48
+          },
+          {
+            "id": "1.4.5",
+            "text": "If I had the opportunity to permanently change how I present my gender, I would take it.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.40
+          }
+        ]
+      },
+      {
+        "id": "1.5.0",
+        "title": "Medical Transition Consideration",
+        "questions": [
+          {
+            "id": "1.5.1",
+            "text": "I have imagined undergoing medical transition (hormones, surgery) to align my body with my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Frequently"],
+            "type": "scale",
+            "weight": 0.60
+          },
+          {
+            "id": "1.5.2",
+            "text": "The idea of taking hormones to change my body feels like something I would seriously consider.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.55
+          },
+          {
+            "id": "1.5.3",
+            "text": "If I woke up tomorrow with a body that matched a different gender, I would feel relieved.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.55
+          },
+          {
+            "id": "1.5.4",
+            "text": "I have looked into medical options for gender transition.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Frequently"],
+            "type": "scale",
+            "weight": 0.55
+          },
+          {
+            "id": "1.5.5",
+            "text": "If there were no social consequences or barriers, I would choose to live as a gender different from my assigned one.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2.0.0",
+    "title": "Social Influence Factor Questions",
+    "sections": [
+      {
+        "id": "2.1.0",
+        "title": "Peer & Online Influence on Gender Identity",
+        "questions": [
+          {
+            "id": "2.1.1",
+            "text": "I sometimes feel like my interests and thoughts shift dramatically after deep conversations with certain people.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.25
+          },
+          {
+            "id": "2.1.2",
+            "text": "I feel more comfortable discussing gender identity with certain online communities or friend groups than with people outside of them.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.1.3",
+            "text": "I feel validated when my friends or online communities affirm my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.1.4",
+            "text": "My gender identity has changed or evolved after meeting new people who openly discuss gender topics.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.25
+          },
+          {
+            "id": "2.1.5",
+            "text": "If I had never joined online discussions about gender, I think my gender identity would be different.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.20
+          },
+          {
+            "id": "2.1.6",
+            "text": "I feel like my social media presence is closely tied to my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.1.7",
+            "text": "I have noticed that my online interactions affect my feelings about my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.1.8",
+            "text": "I feel like I'm more confident in my gender identity when I'm online.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.1.9",
+            "text": "I have considered joining online communities or forums to discuss my gender identity.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.20
+          },
+          {
+            "id": "2.1.10",
+            "text": "I feel like my online relationships are more supportive of my gender identity than my in-person relationships.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          }
+        ]
+      },
+      {
+        "id": "2.2.0",
+        "title": "Influence of Social Groups on Gender Expression",
+        "questions": [
+          {
+            "id": "2.2.1",
+            "text": "I feel uncomfortable expressing my gender identity outside of my online or friend groups.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.2.2",
+            "text": "I feel more confident in my gender identity when those around me support it.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.2.3",
+            "text": "I feel like I belong more in gender-focused communities than in other social groups.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.2.4",
+            "text": "When my friends talk about gender identity, I feel the need to contribute to the conversation by expressing my own identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.2.5",
+            "text": "I sometimes feel that my gender identity shifts depending on who I spend time with.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          }
+        ]
+      },
+      {
+        "id": "2.3.0",
+        "title": "External Pressures & Expectations",
+        "questions": [
+          {
+            "id": "2.3.1",
+            "text": "I feel like people expect me to choose a specific gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.3.2",
+            "text": "I feel pressure from my environment to present myself in a specific gendered way.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.3.3",
+            "text": "When I am in spaces where gender identity is rarely discussed, I think about my gender identity less.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "2.3.4",
+            "text": "If people around me stopped discussing gender identity, I would still feel the same way about my own gender.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.20
+          },
+          {
+            "id": "2.3.5",
+            "text": "I have felt pressure from people in my environment to explore or question my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          }
+        ]
+      },
+      {
+        "id": "2.4.0",
+        "title": "Seeking External Validation for Gender Identity",
+        "questions": [
+          {
+            "id": "2.4.1",
+            "text": "I feel happiest when people recognize or affirm my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.4.2",
+            "text": "I feel uncomfortable when people do not acknowledge my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.4.3",
+            "text": "I have felt a need to publicly express my gender identity to gain support or validation.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.4.4",
+            "text": "If I did not receive positive reactions when expressing my gender identity, I would still feel the same way about it.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "2.4.5",
+            "text": "I sometimes feel disappointed if people do not comment on my gender identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "2.4.6",
+            "text": "I feel a strong need to share my gender identity on social media to receive validation.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.4.7",
+            "text": "I have changed my online profiles to better reflect my gender identity and receive support.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.4.8",
+            "text": "I feel anxious when I don't receive immediate responses or reactions to my gender identity expressions.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "2.4.9",
+            "text": "I have sought out online communities or forums to discuss my gender identity and receive validation.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.4.10",
+            "text": "I feel like I need to constantly express my gender identity to remind others of my identity.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          }
+        ]
+      },
+      {
+        "id": "2.5.0",
+        "title": "Changes in Identity Based on Attention Received",
+        "questions": [
+          {
+            "id": "2.5.1",
+            "text": "I have changed how I describe my gender identity based on how others react to it.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.5.2",
+            "text": "When people show interest in my gender identity, I feel more certain about it.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.5.3",
+            "text": "If my gender identity did not receive attention from others, I would still feel confident in it.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "2.5.4",
+            "text": "I feel uncomfortable when conversations about gender identity do not include me.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "2.5.5",
+            "text": "I sometimes emphasize my gender identity in conversations to make sure others notice it.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "2.5.6",
+            "text": "I have noticed that my gender identity expression changes depending on the social group I'm with.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "2.5.7",
+            "text": "I feel more confident in my gender identity when I receive attention or praise from others.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.35
+          },
+          {
+            "id": "2.5.8",
+            "text": "I have changed my behavior or appearance to fit in with a particular social group or to receive attention.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "2.5.9",
+            "text": "I feel like I'm 'performing' my gender identity to receive validation or attention from others.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "2.5.10",
+            "text": "I have difficulty distinguishing between my true feelings about my gender identity and the expectations of others.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3.0.0",
+    "title": "Autism Identity Confusion Questions",
+    "sections": [
+      {
+        "id": "3.1.0",
+        "title": "Sensory Discomfort vs. Gender Dysphoria",
+        "questions": [
+          {
+            "id": "3.1.1",
+            "text": "Certain parts of my body feel physically uncomfortable, even if I don’t think they are wrong for my gender.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.1.2",
+            "text": "I experience discomfort with certain textures or physical sensations more than with how my body looks.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.1.3",
+            "text": "My discomfort with my body is mostly about how it feels rather than how it looks.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.1.4",
+            "text": "If I could change how my body physically feels without changing how it looks, I would be more comfortable.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.20
+          },
+          {
+            "id": "3.1.5",
+            "text": "I tend to avoid certain types of clothing because of how they feel on my body, rather than how they make me look.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.1.6",
+            "text": "I experience sensory overload or discomfort in certain environments, which affects my perception of my body.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.1.7",
+            "text": "I have noticed that my sensory sensitivities or discomforts are triggered by specific situations or stimuli.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.1.8",
+            "text": "I feel like my body is 'wrong' due to sensory issues rather than gender dysphoria.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.1.9",
+            "text": "I have tried to adapt my environment or daily routines to reduce sensory discomfort.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.1.10",
+            "text": "I feel like my sensory experiences are closely tied to my emotional state and well-being.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.1.11",
+            "text": "I feel like my sensory experiences are closely tied to my emotional state.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.10
+          },
+          {
+            "id": "3.1.12",
+            "text": "I have difficulty distinguishing between my sensory discomfort and my gender dysphoria.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "3.1.13",
+            "text": "I have tried to adapt my environment or daily routines to reduce sensory discomfort.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.10
+          },
+          {
+            "id": "3.1.14",
+            "text": "I feel like my sensory experiences are closely tied to my anxiety or stress levels.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          }
+        ]
+      },
+      {
+        "id": "3.2.0",
+        "title": "Social Disconnection & Identity Stability",
+        "questions": [
+          {
+            "id": "3.2.1",
+            "text": "I often feel like I don’t fit in with people my age, regardless of gender.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "3.2.2",
+            "text": "I have changed how I behave or present myself to fit in with certain social groups.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.2.3",
+            "text": "I struggle to understand or express my emotions in social situations.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.2.4",
+            "text": "I have adapted my personality or behaviors to match the people I am around, even if it feels unnatural.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.15
+          },
+          {
+            "id": "3.2.5",
+            "text": "I sometimes struggle to know what my 'real' self is because I adapt to different situations.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "3.2.6",
+            "text": "I often feel like I'm 'faking' social interactions or relationships due to difficulties with social cues.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.2.7",
+            "text": "I have trouble understanding or responding to emotional cues from others, which affects my relationships.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.2.8",
+            "text": "I feel like I'm constantly trying to 'catch up' or understand social norms and expectations.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.2.9",
+            "text": "I have difficulty forming or maintaining close relationships due to feelings of social disconnection.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.2.10",
+            "text": "I feel like my social struggles are closely tied to my difficulties with identity and self-expression.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          }
+        ]
+      },
+      {
+        "id": "3.3.0",
+        "title": "Social Masking & Identity Shifting",
+        "questions": [
+          {
+            "id": "3.3.1",
+            "text": "People have told me that I act differently in different settings, even when I don’t notice it myself.",
+            "options": ["Yes", "No"],
+            "type": "binary",
+            "weight": 0.15
+          },
+          {
+            "id": "3.3.2",
+            "text": "I often imitate the speech, behavior, or preferences of others to feel more accepted.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.3.3",
+            "text": "It is difficult for me to determine whether I truly like something or if I have just adapted to liking it over time.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.3.4",
+            "text": "I often feel like I have to suppress certain aspects of myself to avoid standing out.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.3.5",
+            "text": "I sometimes wonder if my gender identity is a response to feeling different in other ways.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "3.3.6",
+            "text": "I often feel like I'm 'putting on a show' or pretending to be someone I'm not in social situations.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.3.7",
+            "text": "I have noticed that I use different 'masks' or personas in different social contexts.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          },
+          {
+            "id": "3.3.8",
+            "text": "I feel like I'm constantly switching between different identities or personas to fit in.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.25
+          },
+          {
+            "id": "3.3.9",
+            "text": "I have difficulty distinguishing between my 'true' self and the personas I use in different situations.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.30
+          },
+          {
+            "id": "3.3.10",
+            "text": "I feel like my social masking or identity shifting is closely tied to my struggles with anxiety or stress.",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "type": "scale",
+            "weight": 0.20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4.0.0",
+    "title": "Response Consistency & Cognitive Reflection",
+    "sections": [
+      {
+        "id": "4.1.0",
+        "title": "Control Questions",
+        "questions": [
+          {
+            "id": "control_1",
+            "text": "I rarely think about my gender unless someone else brings it up.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": -0.3
+          },
+          {
+            "id": "control_2",
+            "text": "I feel just as comfortable when I am alone as I do when discussing gender with others.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": -0.3
+          },
+          {
+            "id": "control_3",
+            "text": "I have never changed my mind about anything important in my life.",
+            "options": [
+              "Strongly Agree"   , "Agree"            , "Neutral"          ,
+              "Disagree"         , "Strongly Disagree"
+            ],
+            "type": "scale",
+            "weight": -0.2
+          }
+        ]
+      }
+    ]
+  }
+]
